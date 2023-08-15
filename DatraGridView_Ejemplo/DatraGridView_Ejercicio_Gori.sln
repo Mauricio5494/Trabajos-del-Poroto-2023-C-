@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatraGridView_Ejercicio_Gori", "DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori.csproj", "{F3C49EF2-2E65-4CC1-B900-5CBBBB578800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C49EF2-2E65-4CC1-B900-5CBBBB578800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C49EF2-2E65-4CC1-B900-5CBBBB578800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C49EF2-2E65-4CC1-B900-5CBBBB578800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C49EF2-2E65-4CC1-B900-5CBBBB578800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB551BCE-F4D4-407F-8D1D-B245E8C0581E}
+	EndGlobalSection
+EndGlobal

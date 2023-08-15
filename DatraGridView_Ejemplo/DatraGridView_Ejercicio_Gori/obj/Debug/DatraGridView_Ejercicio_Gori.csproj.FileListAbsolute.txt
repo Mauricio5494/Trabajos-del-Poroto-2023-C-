@@ -1,0 +1,11 @@
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\bin\Debug\DatraGridView_Ejercicio_Gori.exe.config
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\bin\Debug\DatraGridView_Ejercicio_Gori.exe
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\bin\Debug\DatraGridView_Ejercicio_Gori.pdb
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.csproj.AssemblyReference.cache
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.csproj.SuggestedBindingRedirects.cache
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.Form1.resources
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.Properties.Resources.resources
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.csproj.GenerateResource.cache
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.csproj.CoreCompileInputs.cache
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.exe
+C:\Users\Colàgeno\source\repos\DatraGridView_Ejercicio_Gori\DatraGridView_Ejercicio_Gori\obj\Debug\DatraGridView_Ejercicio_Gori.pdb
